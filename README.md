@@ -1,2 +1,2 @@
 # todolist-v1
-This is a practice project, just messing around with some EJS and more javascript. 
+This project displays a To-Do list where the user can update, delete, and create new To-Do's or To-Do lists. 
